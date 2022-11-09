@@ -1,0 +1,25 @@
+<!ELEMENT estudiantes (estudiante+)>
+<!ELEMENT estudiante (datos,(estudiante,estudiante,estudiante)?)>
+<!ELEMENT datos (nombre, apellido, fecha_nacimiento, lugar_nacimiento, coordenadas_nacimiento, lugar_residencia, coordenadas_residencia, fotografias+, videos*, comentario)>
+
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellido (#PCDATA)>
+<!ELEMENT fecha_nacimiento (#PCDATA)>
+<!ELEMENT lugar_nacimiento (#PCDATA)>
+<!ELEMENT lugar_residencia (#PCDATA)>
+<!ELEMENT comentario (#PCDATA)>
+
+<!ELEMENT fotografias (foto)+>
+<!ELEMENT foto (#PCDATA)>
+<!ATTLIST foto url CDATA #REQUIRED>
+
+<!ELEMENT videos (video)*>
+<!ELEMENT video (#PCDATA)>
+<!ATTLIST video url CDATA #REQUIRED>
+
+<!ELEMENT coordenadas_nacimiento (latitud,longitud,altitud)>
+<!ELEMENT coordenadas_residencia (latitud,longitud,altitud)>
+<!ELEMENT latitud (#PCDATA)>
+<!ELEMENT longitud (#PCDATA)>
+<!ELEMENT altitud (#PCDATA)>

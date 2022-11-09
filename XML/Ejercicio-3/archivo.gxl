@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<gxl>
+  <graph id="Co-occurance Network" edgeids="true" edgemode="undirected">
+    <node id="_1">
+      <attr name="LFP"><int>1</int></attr>
+      <attr name="Equipo"><string>Barcelona</string></attr>
+    </node>
+    <node id="_105">
+      <attr name="LFP"><int>105</int></attr>
+      <attr name="Equipo"><string>Real Madrid</string></attr>
+    </node>
+    <node id="_1071">
+      <attr name="LFP"><int>1071</int></attr>
+      <attr name="Equipo"><string>Valencia</string></attr>
+    </node>
+    <node id="_11">
+      <attr name="LFP"><int>11</int></attr>
+      <attr name="Equipo"><string>Osasuna</string></attr>
+    </node>
+    <node id="_12">
+      <attr name="LFP"><int>12</int></attr>
+      <attr name="Equipo"><string>Barcelona</string></attr>
+    </node>
+    <node id="_132">
+      <attr name="LFP"><int>132</int></attr>
+      <attr name="Equipo"><string>Real Oviedo</string></attr>
+    </node>
+    <node id="_1691">
+      <attr name="LFP"><int>1691</int></attr>
+      <attr name="Equipo"><string>Sevilla</string></attr>
+    </node>
+    <node id="_18">
+      <attr name="LFP"><int>18</int></attr>
+      <attr name="Equipo"><string>Mirandes</string></attr>
+    </node>
+    <node id="_217">
+      <attr name="LFP"><int>217</int></attr>
+      <attr name="Equipo"><string>Valencia</string></attr>
+    </node>
+    <node id="_305">
+      <attr name="LFP"><int>305</int></attr>
+      <attr name="Equipo"><string>Granada</string></attr>
+    </node>
+    <node id="_33">
+      <attr name="LFP"><int>33</int></attr>
+      <attr name="Equipo"><string>Real Oviedo</string></attr>
+    </node>
+    <node id="_4">
+      <attr name="LFP"><int>4</int></attr>
+      <attr name="Equipo"><string>Barcelona</string></attr>
+    </node>
+    <node id="_43">
+      <attr name="LFP"><int>43</int></attr>
+      <attr name="Equipo"><string>Eibar</string></attr>
+    </node>
+    <node id="_54">
+      <attr name="LFP"><int>54</int></attr>
+      <attr name="Equipo"><string>Leganes</string></attr>
+    </node>
+    <node id="_6">
+      <attr name="LFP"><int>6</int></attr>
+      <attr name="Equipo"><string>Barcelona</string></attr>
+    </node>
+    <node id="_61">
+      <attr name="LFP"><int>61</int></attr>
+      <attr name="Equipo"><string>Mirandes</string></attr>
+    </node>
+    <node id="_8">
+      <attr name="LFP"><int>8</int></attr>
+      <attr name="Equipo"><string>Sevilla</string></attr>
+    </node>
+    <node id="_27">
+      <attr name="LFP"><int>27</int></attr>
+      <attr name="Equipo"><string>Levante</string></attr>
+    </node>
+    <node id="_80">
+      <attr name="LFP"><int>80</int></attr>
+      <attr name="Equipo"><string>Elche</string></attr>
+    </node>
+    <node id="_1199">
+      <attr name="LFP"><int>1199</int></attr>
+      <attr name="Equipo"><string>Valencia</string></attr>
+    </node>
+    <node id="_14">
+      <attr name="LFP"><int>14</int></attr>
+      <attr name="Equipo"><string>Girona</string></attr>
+    </node>
+    <node id="_871">
+      <attr name="LFP"><int>871</int></attr>
+      <attr name="Equipo"><string>Barcelona</string></attr>
+    </node>
+    <node id="_90">
+      <attr name="LFP"><int>90</int></attr>
+      <attr name="Equipo"><string>Osasuna</string></attr>
+    </node>
+    <node id="_23">
+      <attr name="LFP"><int>23</int></attr>
+      <attr name="Equipo"><string>Valencia</string></attr>
+    </node>
+    <node id="_128">
+      <attr name="LFP"><int>128</int></attr>
+      <attr name="Equipo"><string>Granada</string></attr>
+    </node>
+    <edge from="_1" to="_11">
+      <attr name="logradio"><float>0.9442</float></attr>
+    </edge>
+    <edge from="_105" to="_27">
+      <attr name="logradio"><float>0.0714</float></attr>
+    </edge>
+    <edge from="_1071" to="_80">
+      <attr name="logradio"><float>0.2356</float></attr>
+    </edge>
+    <edge from="_11" to="_1199">
+      <attr name="logradio"><float>0.3173</float></attr>
+    </edge>
+    <edge from="_11" to="_14">
+      <attr name="logradio"><float>0.1256</float></attr>
+    </edge>
+    <edge from="_11" to="_80">
+      <attr name="logradio"><float>0.2356</float></attr>
+    </edge>
+    <edge from="_11" to="_871">
+      <attr name="logradio"><float>0.3051</float></attr>
+    </edge>
+    <edge from="_11" to="_90">
+      <attr name="logradio"><float>0.3012</float></attr>
+    </edge>
+    <edge from="_132" to="_14">
+      <attr name="logradio"><float>0.1256</float></attr>
+    </edge>
+    <edge from="_132" to="_80">
+      <attr name="logradio"><float>0.2356</float></attr>
+    </edge>
+    <edge from="_1691" to="_14">
+      <attr name="logradio"><float>0.1624</float></attr>
+    </edge>
+    <edge from="_1691" to="_23">
+      <attr name="logradio"><float>0.3635</float></attr>
+    </edge>
+    <edge from="_1691" to="_80">
+      <attr name="logradio"><float>0.2725</float></attr>
+    </edge>
+    <edge from="_18" to="_14">
+      <attr name="logradio"><float>0.1256</float></attr>
+    </edge>
+    <edge from="_18" to="_80">
+      <attr name="logradio"><float>0.2356</float></attr>
+    </edge>
+    <edge from="_217" to="_80">
+      <attr name="logradio"><float>0.2725</float></attr>
+    </edge>
+    <edge from="_305" to="_14">
+      <attr name="logradio"><float>0.1624</float></attr>
+    </edge>
+    <edge from="_305" to="_80">
+      <attr name="logradio"><float>0.2725</float></attr>
+    </edge>
+    <edge from="_33" to="_128">
+      <attr name="logradio"><float>0.3894</float></attr>
+    </edge>
+    <edge from="_33" to="_14">
+      <attr name="logradio"><float>0.1256</float></attr>
+    </edge>
+    <edge from="_33" to="_80">
+      <attr name="logradio"><float>0.2356</float></attr>
+    </edge>
+    <edge from="_4" to="_80">
+      <attr name="logradio"><float>0.2356</float></attr>
+    </edge>
+    <edge from="_43" to="_80">
+      <attr name="logradio"><float>0.2941</float></attr>
+    </edge>
+    <edge from="_54" to="_27">
+      <attr name="logradio"><float>0.1817</float></attr>
+    </edge>
+    <edge from="_6" to="_1199">
+      <attr name="logradio"><float>0.3542</float></attr>
+    </edge>
+    <edge from="_6" to="_14">
+      <attr name="logradio"><float>0.1624</float></attr>
+    </edge>
+    <edge from="_6" to="_80">
+      <attr name="logradio"><float>0.2725</float></attr>
+    </edge>
+    <edge from="_6" to="_871">
+      <attr name="logradio"><float>0.3420</float></attr>
+    </edge>
+    <edge from="_61" to="_80">
+      <attr name="logradio"><float>0.2356</float></attr>
+    </edge>
+    <edge from="_8" to="_128">
+      <attr name="logradio"><float>0.4262</float></attr>
+    </edge>
+    <edge from="_8" to="_14">
+      <attr name="logradio"><float>0.1624</float></attr>
+    </edge>
+  </graph>
+</gxl>

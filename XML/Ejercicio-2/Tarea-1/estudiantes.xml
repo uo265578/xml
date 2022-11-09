@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiantes> 
+	<estudiante>
+		<datos>
+			<nombre>Juan</nombre>
+			<apellido>Cuesta</apellido>
+			<fecha_nacimiento>1957-11-03</fecha_nacimiento>
+			<lugar_nacimiento>Ribadesella</lugar_nacimiento>
+			<coordenadas_nacimiento>
+				<latitud>43.46321395964228</latitud>
+				<longitud>-5.056486546343498</longitud>
+				<altitud>95.6587</altitud>
+			</coordenadas_nacimiento>
+			<lugar_residencia>Ribadesella</lugar_residencia>
+			<coordenadas_residencia>
+				<latitud>43.46321395964228</latitud>
+				<longitud>-5.056486546343498</longitud>
+				<altitud>89.6587</altitud>
+			</coordenadas_residencia>
+			<fotografias>
+				<foto url="https://anhqv.es/wp-content/uploads/2015/09/59360_jose-luis-gil-interprete-de-juan-cuesta-en-aqui-no-hay-quien-viva-e1512895385871.jpg"></foto>
+			</fotografias>
+			<videos>
+				<video url="https://www.youtube.com/watch?v=az9EccMMhz0"></video>
+			</videos>
+			<comentario>
+				Presidente de la comunidad y vecino del segundo A
+			</comentario>
+		</datos>
+			<!--AMIGO 1-->
+			<estudiante>
+				<datos>
+					<nombre>Emilio</nombre>
+					<apellido>Delgado</apellido>
+					<fecha_nacimiento>1969-05-13</fecha_nacimiento>
+					<lugar_nacimiento>Arriondas</lugar_nacimiento>
+					<coordenadas_nacimiento>
+						<latitud>43.38093868770556</latitud>
+						<longitud>-5.184301148160496</longitud>
+						<altitud>100.6587</altitud>
+					</coordenadas_nacimiento>
+					<lugar_residencia>Llanes</lugar_residencia>
+					<coordenadas_residencia>
+						<latitud>43.410060612621095</latitud>
+						<longitud>-4.749607444078907</longitud>
+						<altitud>10.265</altitud>
+					</coordenadas_residencia>
+					<fotografias>
+						<foto url="https://cope-cdnmed.agilecontent.com/resources/jpg/2/2/1640843136622.jpg"></foto>
+					</fotografias>
+					<videos>
+						<video url= "https://www.youtube.com/watch?v=fG9eVtLxQa4"></video>
+					</videos>
+					<comentario>
+						Portero de la comunidad, vive en la porteria.
+					</comentario>
+				</datos>
+					<!--AMIGO 1.1-->
+					<estudiante>
+						<datos>
+							<nombre>Roberto</nombre>
+							<apellido>Alonso</apellido>
+							<fecha_nacimiento>1987-08-20</fecha_nacimiento>
+							<lugar_nacimiento>Oviedo</lugar_nacimiento>
+							<coordenadas_nacimiento>
+								<latitud>43.356558980153345</latitud>
+								<longitud>-5.839103308444676</longitud>
+								<altitud>100.6587</altitud>
+							</coordenadas_nacimiento>
+							<lugar_residencia>Oviedo</lugar_residencia>
+							<coordenadas_residencia>
+								<latitud>43.34676927004314</latitud>
+								<longitud>-5.836298506660003</longitud>
+								<altitud>900.545</altitud>
+							</coordenadas_residencia>
+							<fotografias>
+								<foto url="http://i.imgur.com/oQUEQF0.jpg"></foto>
+							</fotografias>
+							<videos>
+								<video url="https://www.youtube.com/watch?v=9XIpteVPMq4"></video>
+							</videos>
+							<comentario>
+								Pintor de cuadros, vive en el tercero A.
+							</comentario>
+						</datos>
+
+					</estudiante>
+					<!--AMIGO 1.2-->
+					<estudiante>
+						<datos>
+							<nombre>Mariano</nombre>
+							<apellido>Delgado</apellido>
+							<fecha_nacimiento>1950-11-23</fecha_nacimiento>
+							<lugar_nacimiento>Arriondas</lugar_nacimiento>
+					<coordenadas_nacimiento>
+						<latitud>43.38093868770556</latitud>
+						<longitud>-5.184301148160496</longitud>
+						<altitud>50.6587</altitud>
+					</coordenadas_nacimiento>
+							<lugar_residencia>Llanes</lugar_residencia>
+							<coordenadas_residencia>
+								<latitud>43.39675335470032</latitud>
+								<longitud>-4.741818476945724</longitud>
+								<altitud>10.78651</altitud>
+							</coordenadas_residencia>
+							<fotografias>
+								<foto url="https://cope-cdnmed.agilecontent.com/resources/jpg/2/2/1640843136622.jpg"></foto>
+							</fotografias>
+							<videos>
+								<video url="https://www.youtube.com/watch?v=Aev9q0RwYUY"></video>
+							</videos>
+							<comentario>
+								Padre de Emilio, viven en la porteria.
+							</comentario>
+						</datos>
+					</estudiante>
+					<!--AMIGO 1.3-->
+					<estudiante>
+						<datos>
+							<nombre>Paco</nombre>
+							<apellido>Ortega</apellido>
+							<fecha_nacimiento>1979-10-03</fecha_nacimiento>
+							<lugar_nacimiento>Gijón</lugar_nacimiento>
+							<coordenadas_nacimiento>
+								<latitud>43.53266763365407</latitud>
+								<longitud>-5.659528822102597</longitud>
+								<altitud>15.54151</altitud>
+							</coordenadas_nacimiento>
+							<lugar_residencia>Luanco</lugar_residencia>
+							<coordenadas_residencia>
+								<latitud>43.53914484702363</latitud>
+								<longitud>-5.661763111002195</longitud>
+								<altitud>15.984</altitud>
+							</coordenadas_residencia>
+							<fotografias>
+								<foto url="https://www.cabroworld.com/wp-content/uploads/2021/10/guillermo-portada.jpg"></foto>
+							</fotografias>
+							<videos>
+								<video url="https://www.youtube.com/watch?v=cWe7zJ5QGwo"></video>
+							</videos>
+							<comentario>
+								Encargado del videoclub, vive en otro edificio.
+							</comentario>
+						</datos>
+					</estudiante>
+
+			</estudiante>
+			<!--AMIGO 2-->
+			<estudiante>
+				<datos>
+					<nombre>Marisa</nombre>
+					<apellido>Benito</apellido>
+					<fecha_nacimiento>1960-08-07</fecha_nacimiento>
+					<lugar_nacimiento>Vigo</lugar_nacimiento>
+					<coordenadas_nacimiento>
+						<latitud>42.23429553952388</latitud>
+						<longitud>-8.727514525588557</longitud>
+						<altitud>15.6587</altitud>
+					</coordenadas_nacimiento>
+					<lugar_residencia>Vigo</lugar_residencia>
+					<coordenadas_residencia>
+						<latitud>42.232892042511</latitud>
+						<longitud>-8.687394652920368</longitud>
+						<altitud>15.984</altitud>
+					</coordenadas_residencia>
+					<fotografias>
+						<foto url="https://imagenes.lainformacion.com/files/image_656_370/uploads/imagenes/2013/04/03/muere-marivi-bilbao.jpg"></foto>
+					</fotografias>
+					<videos>
+						<video url="https://www.youtube.com/watch?v=WM3kyn5D4f4"></video>
+					</videos>
+					<comentario>
+						Jubilada y aficionada al bingo, vive en el primero A.
+					</comentario>
+				</datos>
+					<!--AMIGO 1-->
+					<estudiante>
+						<datos>
+							<nombre>Concha</nombre>
+							<apellido>Penella</apellido>
+							<fecha_nacimiento>1962-05-29</fecha_nacimiento>
+							<lugar_nacimiento>Ourense</lugar_nacimiento>
+							<coordenadas_nacimiento>
+								<latitud>42.33589427047176</latitud>
+								<longitud>-7.869819610622399</longitud>
+								<altitud>194.78651</altitud>
+							</coordenadas_nacimiento>
+							<lugar_residencia>Ourense</lugar_residencia>
+							<coordenadas_residencia>
+								<latitud>42.32660842438522</latitud>
+								<longitud>-7.888193555351435</longitud>
+								<altitud>196.78651</altitud>
+							</coordenadas_residencia>
+							<fotografias>
+								<foto url="https://phantom-elmundo.unidadeditorial.es/f0bbf44d03874c0352b724df43f6e232/assets/multimedia/imagenes/2020/05/01/15883468437572.jpg"></foto>
+							</fotografias>
+							<videos>
+								<video url= "https://www.youtube.com/watch?v=wkZaZA6iBQU"></video>
+							</videos>
+							<comentario>
+								Amiga de Marisa, viven juntas en el primero A.
+							</comentario>
+						</datos>
+					</estudiante>
+					<!--AMIGO 2-->
+					<estudiante>
+						<datos>
+							<nombre>Vicenta</nombre>
+							<apellido>Benito</apellido>
+							<fecha_nacimiento>1965-01-27</fecha_nacimiento>
+							<lugar_nacimiento>Pontevedra</lugar_nacimiento>
+							<coordenadas_nacimiento>
+								<latitud>42.42759661259383</latitud>
+								<longitud>-8.663916510187162</longitud>
+								<altitud>27.6587</altitud>
+							</coordenadas_nacimiento>
+							<lugar_residencia>Pontevedra</lugar_residencia>
+							<coordenadas_residencia>
+								<latitud>42.43430606228051</latitud>
+								<longitud>-8.623284372994613</longitud>
+								<altitud>29.984</altitud>
+							</coordenadas_residencia>
+							<fotografias>
+								<foto url="https://filesedc.com/uploads/17/img/2022/01/1200/imatge-de-lactriu-gemma-cuervo-vicenta-a-aqui-no-hay-quien-viva-amb-cook-el-gosset-de-vicenta-61ee5138af66f.webp"></foto>
+							</fotografias>
+							<videos>
+								<video url="https://www.youtube.com/watch?v=ez2rUGnvaxg"></video>
+							</videos>
+							<comentario>
+								Hermana pequeña de Marisa, viven juntas en el primero A.
+							</comentario>
+						</datos>
+					</estudiante>
+					<!--AMIGO 3-->
+					<estudiante>
+						<datos>
+							<nombre>Paloma</nombre>
+							<apellido>Hurtado</apellido>
+							<fecha_nacimiento>1966-02-25</fecha_nacimiento>
+							<lugar_nacimiento>Salamanca</lugar_nacimiento>
+							<coordenadas_nacimiento>
+								<latitud>40.960976368818635</latitud>
+								<longitud>-5.664488766771246</longitud>
+								<altitud>230.285784</altitud>
+							</coordenadas_nacimiento>
+							<lugar_residencia>Valladolid</lugar_residencia>
+							<coordenadas_residencia>
+								<latitud>41.665168773068224</latitud>
+								<longitud>-4.76146222698356</longitud>
+								<altitud>210.875454/</altitud>
+							</coordenadas_residencia>
+							<fotografias>
+								<foto url="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2022/03/08/loles-leon-como-paloma-cuesta.jpeg"></foto>
+							</fotografias>
+							<videos>
+								<video url="https://www.youtube.com/watch?v=vH9GeF6eaT4"></video>
+							</videos>
+							<comentario>
+								Mujer de Juan Cuesta, viven juntos en el segundo A.
+							</comentario>
+						</datos>
+					</estudiante>
+			</estudiante>
+			<!--AMIGO 3-->
+			<estudiante>
+				<datos>
+					<nombre>Belén</nombre>
+					<apellido>Lopez</apellido>
+					<fecha_nacimiento>1977-11-12</fecha_nacimiento>
+					<lugar_nacimiento>León</lugar_nacimiento>
+					<coordenadas_nacimiento>
+						<latitud>42.63932179627062</latitud>
+						<longitud>-5.596518345531973</longitud>
+						<altitud>270.285784</altitud>
+					</coordenadas_nacimiento>
+					<lugar_residencia>León</lugar_residencia>
+					<coordenadas_residencia>
+						<latitud>42.63932179627062</latitud>
+						<longitud>-4.76146222698356</longitud>
+						<altitud>270.875454/</altitud>
+					</coordenadas_residencia>
+					<fotografias>
+						<foto url="https://www.lavanguardia.com/uploads/2022/01/17/61e58a3003ee8.png"></foto>
+					</fotografias>
+					<videos>
+						<video url="https://www.youtube.com/watch?v=MHmTywZTft8"></video>
+					</videos>
+					<comentario>
+						Compró el piso recientemente, vive en el tercero B.
+					</comentario>
+				</datos>
+					<!--AMIGO 1-->
+					<estudiante>
+						<datos>
+							<nombre>Bea</nombre>
+							<apellido>Villarejo</apellido>
+							<fecha_nacimiento>1975-03-07</fecha_nacimiento>
+							<lugar_nacimiento>Valencia de Don Juán</lugar_nacimiento>
+							<coordenadas_nacimiento>
+								<latitud>42.29668455589107</latitud>
+								<longitud>-5.510759091064592</longitud>
+								<altitud>235.8485115</altitud>
+							</coordenadas_nacimiento>
+							<lugar_residencia>Valladolid</lugar_residencia>
+							<coordenadas_residencia>
+								<latitud>42.29668455589107</latitud>
+								<longitud>-5.510759091064592</longitud>
+								<altitud>235.8485115</altitud>
+							</coordenadas_residencia>
+							<fotografias>
+								<foto url="http://2.bp.blogspot.com/-xcRl7vAOmok/TuhtiFi9mKI/AAAAAAAAAC8/84XtXV21S9A/s320/3084185_640px.jpg"></foto>
+							</fotografias>
+							<videos>
+								<video url="https://www.youtube.com/watch?v=k3qoD5d-8ig"></video>
+							</videos>
+							<comentario>
+								Veterinaria y vive alquilada en el segundo B.
+							</comentario>
+						</datos>
+						
+					</estudiante>
+					<!--AMIGO 2-->
+					<estudiante>
+						<datos>
+							<nombre>Lucía Alvarez</nombre>
+							<apellido>Hurtado</apellido>
+							<fecha_nacimiento>1980-09-15</fecha_nacimiento>
+							<lugar_nacimiento>Astorga</lugar_nacimiento>
+							<coordenadas_nacimiento>
+								<latitud>42.45776352351298</latitud>
+								<longitud>-6.045779973773644</longitud>
+								<altitud>227.85687</altitud>
+							</coordenadas_nacimiento>
+							<lugar_residencia>Astorga</lugar_residencia>
+							<coordenadas_residencia>
+								<latitud>42.45776352351298</latitud>
+								<longitud>-6.045779973773644</longitud>
+								<altitud>227.85687</altitud>
+							</coordenadas_residencia>
+							<fotografias>
+								<foto url="https://noticierouniversal.com/wp-content/uploads/2019/03/n90217_NYcFJLHekU5N6031gqmxB9zP84voEs2Wa-q.jpgg"></foto>
+							</fotografias>
+							<videos>
+								<video url="https://www.youtube.com/watch?v=iw8SJExkuiA"></video>
+							</videos>
+							<comentario>
+								Montó un restaurante, vive con Roberto en el tercero A.
+							</comentario>
+						</datos>
+					</estudiante>
+					<!--AMIGO 3-->
+					<estudiante>
+						<datos>
+							<nombre>Mauricio</nombre>
+							<apellido>Hidalgo</apellido>
+							<fecha_nacimiento>1980-10-30</fecha_nacimiento>
+							<lugar_nacimiento>Benavente</lugar_nacimiento>
+							<coordenadas_nacimiento>
+								<latitud>41.99394736080563</latitud>
+								<longitud>-5.720922335134926</longitud>
+								<altitud>250.554</altitud>
+							</coordenadas_nacimiento>
+							<lugar_residencia>Benavente</lugar_residencia>
+							<coordenadas_residencia>
+								<latitud>41.665168773068224</latitud>
+								<longitud>-4.76146222698356</longitud>
+								<altitud>250.554</altitud>
+							</coordenadas_residencia>
+							<fotografias>
+								<foto url="https://imagenes.elpais.com/resizer/ppBmk0IZGDCrYFZVb0oBYMbd5Yg=/980x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/YQ563PEXBL6JQ4IHWX44NO55V4.jpg"></foto>
+							</fotografias>
+							<videos>
+								<video url="https://www.youtube.com/watch?v=gIvqSqcUzGw"></video>
+							</videos>
+							<comentario>
+								Periodista, vive en el primero A.
+							</comentario>
+						</datos>
+					</estudiante>
+			</estudiante>
+	</estudiante>
+</estudiantes>
